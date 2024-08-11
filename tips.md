@@ -104,3 +104,48 @@ Some words change meaning if you use a different gender.
 - der Poster is a person posting on social media, das Poster is a poster on a
   wall
 - der Teil is a part of a sequence, das Teil is just a thing
+
+# Pronunciation
+
+In general German defaults to using long vowels. If a vowel is followed by a
+double consonant (z.b. "denn"), then it is meant to be pronounced as a short
+vowel.
+
+- The useful example that our teacher gave is that a common error is to pronounce
+  the article "den" with a short "e", which would be perceived by native speakers
+  as "denn".
+
+# Akkusativ vs Dativ
+
+Dativ comes from the Latin "to give". The Dativ form is used when giving
+something or doing something for the benefit (or downfall) of someone. It
+indicates the receiver of something. Z.b.:
+
+- Der Kaffee schmeckt **mir**.
+  - The coffee is conveying a benefit to me (its taste). If we changed "mir" to
+    "mich", this would suggest that it was possible for the coffee to taste me (as
+    if it had a tongue). Coffee is an inanimate object, not an agent that can do
+    things like tasting or writing or running.
+- Ich schreibe mein**er** Freundin eine Nachricht.
+  - I write a message that my girlfriend **receives**. I am writing the letter
+    for her to receive as an "advantage".
+
+It is also used to indicate the instrument with which someone did something.
+
+## Präpositionen
+
+For prepositions that can take either Akkusativ or Dativ, Akkusativ is used to
+indicate movement and Dativ is used to indicate a lack of movement. Z.b.
+
+- Die Kommode ist neben der Tür. Die Kommode geht nicht zu einem Ort, es steht
+  da schon.
+- Die Kommode geht neben die Tür. Die Kommode doch geht zu einem Ort. Sie wird da
+  stehen, weil jemand sie da stellen wird.
+
+# Präpositionen
+
+Nach is used with a movement to a city, state, or country, whereas zu is used for a
+movement with a more specific destination (like a specific shop or building). Z.b.:
+
+- Ich ziehe nach Stuttgart um.
+  - I could have moved to any building in Stuttgart.
