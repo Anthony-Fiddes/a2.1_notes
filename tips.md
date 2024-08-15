@@ -135,12 +135,15 @@ It is also used to indicate the instrument with which someone did something.
 ## Präpositionen
 
 For prepositions that can take either Akkusativ or Dativ, Akkusativ is used to
-indicate movement and Dativ is used to indicate a lack of movement. Z.b.
+indicate movement from one place to another. Z.b.
 
 - Die Kommode ist neben der Tür. Die Kommode geht nicht zu einem Ort, es steht
   da schon.
 - Die Kommode geht neben die Tür. Die Kommode doch geht zu einem Ort. Sie wird da
   stehen, weil jemand sie da stellen wird.
+- "Ich fliege in die Türkei" means that I flew into Turkey from another country
+  (Akkusativ). Aber "Ich fliege in der Türkei" means that I flew from a place in
+  Turkey to another place that is in Turkey.
 
 # Präpositionen
 
