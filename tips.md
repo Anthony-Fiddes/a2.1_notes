@@ -134,7 +134,41 @@ It is also used to indicate the instrument with which someone did something.
 
 ## Präpositionen
 
-For prepositions that can take either Akkusativ or Dativ, Akkusativ is used to
+There are Präpositionen that take only Dativ. Use the mnemonic **aubemina
+vonseizu** to remember them. They are:
+
+- **au**s
+- **be**i
+- **mi**r
+- **na**ch
+- **von**
+- **sei**t
+- **zu**
+- ab
+
+For the ones that only take Akkusativ, use the mnemonic **fudog**:
+
+- **f**ür
+- **u**m
+- **d**urch
+- **o**hne
+- **g**egen
+- bis
+
+Die Wechsel Präpositionen nehmen Akkusativ **oder** Dativ, die sind:
+
+- in
+- an
+- auf
+- neben
+- über
+- vor
+- hinter
+- zwischen
+- unter
+
+Another way to remember these prepositions is that they **can** be used to
+indicate movement. When they take an Akkusativ object, they (in most cases)
 indicate movement from one place to another. Z.b.
 
 - Die Kommode ist neben der Tür. Die Kommode geht nicht zu einem Ort, es steht
