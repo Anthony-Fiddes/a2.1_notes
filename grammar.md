@@ -98,3 +98,35 @@ Trennbare Verben hat the emphasis on the verb and nicht die Präposition. Nicht
 trennbare Verben hat the emphasis on die Präposition.
 
 Mit Verben aus einer andere Sprache, man muss schon wissen, was zu tun.
+
+# Adjektive Deklination
+
+Adding adjectives to German nouns is a bit hard.
+
+Here are the possible endings and when an adjective is added to a word with an
+article:
+
+- Adjektive + "e"
+  - feminin singular Artikel: die, eine, meine, deine, seine
+  - der + Adjektive + Nomen
+    - Z.b., der schöne Mann, der schwarze Laptop
+  - das + Adjektive + Nomen
+    - Z.b., das schöne Mensch
+- Adjektive + "en"
+  - Alle Pluralartikel (Z.b., meine, deine, seine, die)
+    - Z.b., die neuen Schuhe
+  - Akkusativ Maskulin Singular
+    - Z.b., meinen kleinen Freund
+  - Alle Dativartikel
+    - mit einem netten Verkäufer
+- Adjektive + "es/er"
+  - Basispartikeln für maskulinen und neuteren Nomen
+    - ein leckeres Eis
+    - ein schöner Mann
+
+If there isn't an article, it's a bit trickier. You have to figure out what
+article WOULD have been used for the word, and take its ending. Z.b.:
+
+* Ich kaufe heute neu**e** Schuhe. (di**e** Schuhe, Akkusativ Plural)
+* Ich spreche mit viel**en** Schülern. (d**en** Schülern, Dativ Plural)
+* Ich sehe nett**e** Lehrer. (di**e** Lehrer, Akkusativ Plural)
