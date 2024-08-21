@@ -130,3 +130,10 @@ article WOULD have been used for the word, and take its ending. Z.b.:
 * Ich kaufe heute neu**e** Schuhe. (di**e** Schuhe, Akkusativ Plural)
 * Ich spreche mit viel**en** Schülern. (d**en** Schülern, Dativ Plural)
 * Ich sehe nett**e** Lehrer. (di**e** Lehrer, Akkusativ Plural)
+
+# Konjunktiv 2
+
+Konjunktiv = Subjunctive. "Konnten" is an example of the second subjunctive form.
+
+We use the second subjunctive form to express politeness, to suggest an idea
+or to give advice.
