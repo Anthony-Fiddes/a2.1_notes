@@ -127,9 +127,9 @@ article:
 If there isn't an article, it's a bit trickier. You have to figure out what
 article WOULD have been used for the word, and take its ending. Z.b.:
 
-* Ich kaufe heute neu**e** Schuhe. (di**e** Schuhe, Akkusativ Plural)
-* Ich spreche mit viel**en** Schülern. (d**en** Schülern, Dativ Plural)
-* Ich sehe nett**e** Lehrer. (di**e** Lehrer, Akkusativ Plural)
+- Ich kaufe heute neu**e** Schuhe. (di**e** Schuhe, Akkusativ Plural)
+- Ich spreche mit viel**en** Schülern. (d**en** Schülern, Dativ Plural)
+- Ich sehe nett**e** Lehrer. (di**e** Lehrer, Akkusativ Plural)
 
 # Konjunktiv 2
 
